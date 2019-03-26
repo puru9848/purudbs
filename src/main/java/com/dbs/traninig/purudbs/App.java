@@ -10,6 +10,6 @@ public class App
     {
       Calculator cl = new Calculator();
       cl.add(5, 5);
-      cl.sub(10, 5)
+      cl.sub(10, 5);
     }
 }
